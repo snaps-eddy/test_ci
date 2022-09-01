@@ -9,6 +9,9 @@ branches:
     - label: together
       prefix: feature/
       name: hotfix
+    - label: feature_together
+      prefix: feature/
+      name: feature
     - label: '*'
       prefix: feature/
 
