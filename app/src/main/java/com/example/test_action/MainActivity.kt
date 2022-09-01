@@ -14,8 +14,5 @@ class MainActivity : AppCompatActivity() {
         Log.d("test","eddy test 333")
         Log.d("test","eddy test 333")
         Log.d("test","eddy test 333")
-        Log.d("test","eddy test 333")
-        Log.d("test","eddy test 333")
-        Log.d("test","eddy test 3fasdfasd33")
     }
 }
