@@ -1,5 +1,4 @@
 branchName: '${issue.number}'
-autoCloseIssue: true
 branches:
     - label: enhancement
       prefix: feature/
@@ -9,3 +8,5 @@ branches:
       name: main
     - label: '*'
       prefix: feature/
+
+autoCloseIssue: true
