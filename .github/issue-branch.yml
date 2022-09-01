@@ -6,6 +6,9 @@ branches:
     - label: hotfix
       prefix: hotfix/
       name: main
+    - label: together
+      prefix: feature/
+      name: hotfix
     - label: '*'
       prefix: feature/
 
