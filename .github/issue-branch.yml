@@ -11,7 +11,7 @@ branches:
       name: hotfix
     - label: feature_together
       prefix: feature/
-      name: feature
+      name: feature/
     - label: '*'
       prefix: feature/
 
