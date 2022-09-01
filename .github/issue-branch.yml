@@ -1,4 +1,4 @@
-branchName: '${issue.number}'
+branchName: '${issue.number}-${issue.title,}'
 branches:
     - label: enhancement
       prefix: feature/
@@ -13,3 +13,5 @@ branches:
       prefix: feature/
 
 autoCloseIssue: true
+gitSafeReplacementChar: '-'
+silent: false
